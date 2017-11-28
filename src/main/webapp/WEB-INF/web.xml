@@ -62,6 +62,7 @@
 		<url-pattern>*.xhtml</url-pattern>
 	</servlet-mapping>
 	
+	
 
 	<servlet>
 		<servlet-name>mvc-dispatcher</servlet-name>
